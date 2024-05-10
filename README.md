@@ -19,7 +19,7 @@ cp .env.example .env
 ```sh
 php -S 127.0.0.1:8000
 ```
-##Or run with docker http://localhost:8080
+Or run with docker http://localhost:8080
 ```sh
 http://localhost:8080
 ```
